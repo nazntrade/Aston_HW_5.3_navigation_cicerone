@@ -1,8 +1,7 @@
 package com.becker.aston_hw_5_3_navigation_cicerone
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).
